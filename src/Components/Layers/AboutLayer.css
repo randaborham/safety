@@ -1,0 +1,7 @@
+.About-bg{
+    background-image: url('../../Assets/Layer1.jpeg');
+    background-size: cover;
+    background-position: 70% 70%;
+    position: relative;
+    height: 70vh;
+}
